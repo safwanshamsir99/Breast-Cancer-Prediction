@@ -35,7 +35,9 @@ Trained more than 500 data to classify into 2 categories namely Benign and Malig
 ## Discussion
 1. The best machine learning model achieved 97.7% accuracy during model testing. 
 2. Precision, recall and f1 score report 98% and 97%  for output Benign and Malignant respectively. 
-3. The machine learning model is deployed by using the streamlit apps.
+3. The machine learning model is deployed by using the streamlit apps. Kindly access the streamlit apps thru this link:
+[Type of Breast Cancer Prediction](https://safwanshamsir99-breast-cancer-prediction-app-breast-hwbk3u.streamlit.app/)
+
 ![streamlit_breast](static/streamlit_breast.PNG)
 
 ## Credits:
